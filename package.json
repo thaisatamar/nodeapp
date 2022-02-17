@@ -1,0 +1,23 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "nodeapp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thaisatamar/nodeapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thaisatamar/nodeapp/issues"
+  },
+  "homepage": "https://github.com/thaisatamar/nodeapp#readme",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
